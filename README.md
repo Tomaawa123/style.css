@@ -1,1 +1,16 @@
-# style.css
+/**
+ * @name Toma awa
+ * @version 1
+ * @author Toma awa
+*/
+
+:root {
+    background-image: url("https://www.ebankingnews.com/wp-content/uploads/2019/02/bank-01.jpg");
+    background-size: 1165px;
+    background-position-y: -97px;
+}
+
+h3 {
+    color: blueviolet;
+    font-size: 30px;
+}
